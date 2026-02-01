@@ -47,7 +47,7 @@ resources/
 1. Clone repository
 
 ```bash
-git clone https://github.com/username/cms-admin.git
+git clone https://github.com/ncsiqbal/cms-admin.git
 ```
 
 2. Masuk ke folder project
